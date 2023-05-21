@@ -1,0 +1,32 @@
+<mxfile host="Electron" modified="2023-05-21T12:16:47.532Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="9lwLJ7G3czsEEpyF5Avq" version="21.2.8" type="device" pages="2">
+  <diagram id="b3zeAMR0hifEMMSiFGtp" name="Установка порогового лимита на цену предмета">
+    <mxGraphModel dx="1026" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SAiq3K0XxWveAxVF5thS-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="500" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAiq3K0XxWveAxVF5thS-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="SAiq3K0XxWveAxVF5thS-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAiq3K0XxWveAxVF5thS-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="500" y="660" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5Dye_rO1C1Sl40tPU6dq-2" value="Открыть список избранных предметов" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="455" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bu5JpM82gfdMzF-BdGj_" name="Просмотр списка всех доступных товаров">
+    <mxGraphModel dx="1026" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
